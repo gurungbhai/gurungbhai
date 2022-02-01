@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gurungbhai
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning dart
-- 💞️ I’m looking to internship on web development or app development
+- 💞️ I’m currently working as backend developer
 - 📫 How to reach me rajan.gurung@sagarmatha.edu.np
 
 <!---
